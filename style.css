@@ -1057,5 +1057,5 @@ h4 {
     text-transform: initial;
 }
 a:focus {
-    color: red;
+    background-color: grey;
   }
