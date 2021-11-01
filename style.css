@@ -1059,3 +1059,20 @@ h4 {
 a:focus {
     background-color: grey;
   }
+  .citation {
+    font-size: 19px;
+    font-weight: bold;
+    font-style: italic;
+   
+}
+
+.citation-author {
+    font-size: 14px;
+    font-weight: bold;
+   
+}
+.slogan {
+    font-size: 22px;
+    max-width: 700px;
+    margin: auto;
+}
